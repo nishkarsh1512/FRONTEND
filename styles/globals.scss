@@ -1,0 +1,161 @@
+.mantine-w29q45.mantine-Drawer-header {
+  font-size: 25px !important;
+
+  button.mantine-UnstyledButton-root.mantine-ActionIcon-root.mantine-Drawer-closeButton.mantine-pjgw9t {
+    svg {
+      width: 30px;
+      height: 30px;
+    }
+  }
+
+  button.mantine-UnstyledButton-root.mantine-ActionIcon-root.mantine-Drawer-closeButton.mantine-pjgw9t:hover {
+    background-color: transparent;
+  }
+}
+.mantine-Paper-root.mantine-Drawer-drawer.font-semibold.px-5.overflow-y-scroll.mantine-t2ft98 {
+}
+
+.test {
+  color: rgb(49, 62, 247, 0.5);
+}
+
+.landing-bg {
+  background-image: linear-gradient(120deg, #015ff3, #015ff3, #77efec);
+  background-size: 110%;
+}
+
+.mantine-Input-input.mantine-Select-input.mantine-Input-withIcon.mantine-Select-withIcon.mantine-q5mr9r {
+  border: none !important;
+  height: 2.75rem !important;
+  border-radius: 0.25rem;
+}
+h2 button.accordion-button {
+  font-size: 24px !important;
+  font-weight: 600 !important;
+  border-radius: 0.25rem !important;
+  color: black !important;
+  background-color: transparent !important;
+  @media screen and (max-width: 640px) {
+    font-size: 15px !important;
+    font-weight: 500 !important;
+  }
+}
+h2 button.accordion-button::after {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23212529'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e") !important;
+}
+h2 button.accordion-button:focus {
+  box-shadow: none !important;
+}
+
+html {
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 0;
+}
+
+.css-bkrceb-MuiButtonBase-root-MuiPickersDay-root.Mui-selected {
+  background-color: #015ff3 !important;
+}
+
+.css-bkrceb-MuiButtonBase-root-MuiPickersDay-root.Mui-selected:hover {
+  background-color: #015ff3;
+}
+
+.css-195y93z-MuiButtonBase-root-MuiPickersDay-root:not(.Mui-selected) {
+  border: none;
+  background-color: black;
+  color: white;
+}
+
+.highcharts-no-tooltip.highcharts-button.highcharts-button-normal {
+  text {
+    fill: white !important;
+  }
+}
+.highcharts-no-tooltip.highcharts-button.highcharts-button-hover:hover {
+  text {
+    fill: black !important;
+  }
+}
+
+// Material UI Data Grid
+.MuiDataGrid-columnHeaders {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.mui-style-1e2bxag-MuiDataGrid-root .MuiDataGrid-cell {
+  border: none !important;
+}
+.MuiDataGrid-cell--withRenderer.MuiDataGrid-cell {
+  border: none !important;
+}
+
+.MuiDataGrid-columnHeaders.mui-style-f3jnds-MuiDataGrid-columnHeaders {
+  max-height: 42px !important;
+  height: 42px !important;
+  min-height: 42px !important;
+}
+.MuiDataGrid-row {
+  max-height: 65px !important;
+  height: 65px !important;
+  min-height: 65px !important;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.MuiDataGrid-columnHeader.MuiDataGrid-columnHeader--alignCenter {
+  outline: none !important;
+}
+.MuiDataGrid-cell--withRenderer.MuiDataGrid-cell.MuiDataGrid-cell--textCenter {
+  outline: none !important;
+  overflow: visible !important;
+}
+.MuiDataGrid-menuIcon {
+  width: fit-content !important;
+}
+.MuiDataGrid-footerContainer {
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
+}
+.MuiDataGrid-root {
+  border: none !important;
+}
+
+.MuiButtonBase-root.MuiMenuItem-root.MuiMenuItem-gutters.MuiMenuItem-root.MuiMenuItem-gutters.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root {
+  gap: 10px !important;
+}
+
+.MuiButtonBase-root.MuiPickersDay-root.MuiPickersDay-dayWithMargin.css-bkrceb-MuiButtonBase-root-MuiPickersDay-root {
+  background-color: rgba(158, 158, 158, 0.2);
+}
+
+// Mantine Notifications
+.mantine-vqs8oh {
+  width: fit-content;
+  right: 28px !important;
+}
+
+.highcharts-no-tooltip.highcharts-button.highcharts-reset-zoom.highcharts-button-normal {
+  color: black !important;
+  background-color: black important;
+  border-radius: 30px !important;
+  overflow: hidden !important;
+  border: none !important;
+}
+
+// Switch
+.MuiButtonBase-root.MuiSwitch-switchBase.MuiSwitch-colorPrimary.PrivateSwitchBase-root.MuiSwitch-switchBase.MuiSwitch-colorPrimary.Mui-checked.css-5ryogn-MuiButtonBase-root-MuiSwitch-switchBase {
+  color: rgb(49, 232, 2)!important;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}

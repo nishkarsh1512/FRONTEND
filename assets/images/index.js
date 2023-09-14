@@ -1,0 +1,5 @@
+export {default as metal} from "./metal.png"
+export {default as mining} from "./mining.png"
+export {default as cement} from "./cement.jpg"
+export {default as oil} from "./oil.jpg"
+export {default as chemical} from "./chemical.jpg"
